@@ -2,7 +2,12 @@ Tiramisu
 
 Menu Class: Dessert
 
-Description:This will become your new favorit dessert. and Loved by all kids
+Description:This will become your new favorit dessert. and Loved by kids
+Servings: 6
+
+Preparation Time:
+Prep: 30 m
+Ready In: 3 h 30 m
 
 Ingredients
 1. 6 egg yolks
