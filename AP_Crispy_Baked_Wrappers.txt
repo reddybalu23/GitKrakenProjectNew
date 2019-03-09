@@ -5,7 +5,11 @@ Menu Class: Appetizers
 Description:
 Baked wonton wrappers filled with cheesy sausage. This is perfect for parties.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Prepared By BalReddy TippiReddy
+=======
+Prepared By BaluReddy
+>>>>>>> Stashed changes
 =======
 Prepared By BaluReddy
 >>>>>>> Stashed changes
